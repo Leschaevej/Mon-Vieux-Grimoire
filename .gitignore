@@ -1,0 +1,11 @@
+# Frontend
+/frontend/node_modules/
+
+# Backend
+/backend/node_modules/
+/backend/.env
+/backend/images/
+
+# Général
+*.log
+.~lock.Soutenance.odt#
