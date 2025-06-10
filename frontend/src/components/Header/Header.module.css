@@ -9,6 +9,7 @@
 .Header div {
     display: flex;
     justify-content: space-between;
+    margin: 0 80px;
 }
 
 .Header p {
@@ -20,7 +21,7 @@
 }
 
 .Header ul li {
-    padding-inline: 20px;
+    padding-left: 40px;
     list-style-type: none;
 }
 
