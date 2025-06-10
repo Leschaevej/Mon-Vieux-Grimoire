@@ -33,6 +33,13 @@ Projet réalisé dans le cadre d'une formation. Il s'agit d'une application web 
 1. Télécharger ou cloner le dépôt :
 git clone https://github.com/Leschaevej/Mon-Vieux-Grimoire.git
 
+### Configuration
+1. Créé une clé secrete :
+Via un generateur de clé
+
+2. Recuperer URL de la base de donnée :
+Sur le site MongoDB Atlas
+
 ### Backend
 1. Se placer dans le dossier backend :
 cd backend
